@@ -1,0 +1,8 @@
+{
+  "name": "cell-crash-test",
+  "private": true,
+  "type": "module",
+  "description": "Crash-injection test for a toy robot cell controller backed by SQLite",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "test": "node harness.mjs" }
+}
